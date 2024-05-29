@@ -1,4 +1,4 @@
-<h3 align="left">Olá me chamo Rodrigo, sou programador Python com foco em RPA, 4 anos de experiência, dedicado ao desenvolvimento de soluções eficientes e escaláveis ​​usando Python e frameworks como Playwright, Requests, HTTPX e Selenium. Experiência comprovada na otimização de processos de negócios, redução de custos e aumento da produtividade em diversos setores.</h3>
+<h2 align="left">Olá me chamo Rodrigo, sou programador Python com foco em RPA, 4 anos de experiência, dedicado ao desenvolvimento de soluções eficientes e escaláveis ​​usando Python e frameworks como Playwright, Requests, HTTPX e Selenium. Experiência comprovada na otimização de processos de negócios, redução de custos e aumento da produtividade em diversos setores.</h2>
 
 ###
 
